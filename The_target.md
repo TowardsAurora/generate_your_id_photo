@@ -7,6 +7,7 @@
 - [x] 5.将生成的证件照初始图片整合成一寸/两寸的打印模版
 
 ### 代码操作流程
+在img_matting.py中你需要更换你在[https://www.remove.bg]上申请到的API key
 在get_ori.py里面输入你想要得到证件照的图片
 在generate_id_photo.py中可以选择生成1寸/2寸的照片模版
 
