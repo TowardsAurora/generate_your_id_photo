@@ -8,7 +8,7 @@
 
 ### 代码操作流程
 在img_matting.py中你需要更换你在[removebg](https://www.remove.bg)上申请到的API key<br>
-在get_ori.py里面输入你想要得到证件照的图片
+在get_ori.py里面输入你想要得到证件照的图片<br>
 在generate_id_photo.py中可以选择生成1寸/2寸的照片模版
 
 ![img.png](img.png)
